@@ -3,16 +3,7 @@ Description: Complete set of design and firmware files for the Fan Test Fixture 
 
 ---------------------
 Design Files: 
-* PCB Files - Contains drill and artwork gerber files for final PCB design 
-  Drill file
-  Top layer (signal)
-  Layer 2 (power)
-  Layer 3 (ground)
-  Bottom layer (signal)
-  Soldermask Top
-  Soldermask Bottom
-  PCB outline
-  Silkscreen top
+* PCB Files - Contains drill and artwork gerber files for final PCB design
 * System block diagram
 * Schematic
 * STM32 pin assignments
