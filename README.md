@@ -1,5 +1,4 @@
-README Markdown File
-Description: Complete set of design and firmware files for the Fan Test Fixture controller powered by STM32 microcontroller. 
+Complete set of design and firmware files for the Fan Test Fixture controller powered by STM32 microcontroller. 
 
 ---------------------
 Design Files: 
